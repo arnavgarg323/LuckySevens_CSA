@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=LuckySevens
+comment0.text=\n\ \ A\ class\ that\ models\ the\ game\ of\ Lucky\ Sevens.\ \n\ \ \n\ \ @author\:\ Arnav\ Garg,\ Samuel\ Xiang,\ Sebastian\ Marrufo\n\ \ @AP\ Computer\ Science\ A,\ Virtual\ Virginia\n
+comment1.params=userBalance
+comment1.target=LuckySevens(int)
+comment2.params=
+comment2.target=int\ rollDie()
+comment3.params=
+comment3.target=void\ playTurn()
+comment4.params=
+comment4.target=void\ playGame()
+comment5.params=
+comment5.target=java.lang.String\ getGameReport()
+numComments=6
